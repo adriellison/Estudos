@@ -5,6 +5,7 @@ Getting Started #14 - [DIO.me](https://www.youtube.com/watch?v=68W5nx8yQZU)
 
 # 📌 Preparando-se para uma nova aventura
 
+**Contents**
 1. [O que é API?](#o-que-é-api)
 2. [Como as APIs funcionam?](#como-as-apis-funcionam)
 3. [Exemplos de API](#exemplos-de-api)
@@ -141,8 +142,9 @@ Os principais critérios para uma API ser **RESTful** são:
 
 - **Code on demand:** Possibilidade que nossa aplicação envie códigos (como Javascript) e execute isso no lado do cliente.
 
-**Fim**
 
-![Fim](./assets/fim.png)
+![Fim](https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif)
+
+**Fim**
 
 [>> Voltar ao topo >>](#o-que-é-api-rest-e-restful)

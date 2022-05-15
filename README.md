@@ -7,5 +7,8 @@ Materiais de estudos e pesquisas
 ## Markdown
 [Lista de comandos em Markdown](./Markdown/)
 
+## Merge Sort (Algoritmo de ordenação)
+[algoritmo de ordenação](./Merge%20Sort/)
+
 ## MVC
 [O que é MVC?](./MVC/)
